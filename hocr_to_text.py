@@ -1,3 +1,4 @@
+# hocr_to_text.py
 from bs4 import BeautifulSoup
 
 
