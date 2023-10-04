@@ -33,3 +33,7 @@ So then I did
 ```
 brew install poppler
 ```
+I also did
+```
+brew install tesseract
+```

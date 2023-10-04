@@ -1,4 +1,7 @@
 venv
 .envrc
 .direnv/
+.DS_Store
 
+examples/*.pdf
+output/*.txt
